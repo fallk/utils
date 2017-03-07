@@ -3405,7 +3405,7 @@ public class Extensions {
     public static <E> String joinAll(E[] a, E delimiter) {
         String[] str = new String[a.length];
         for (int i = 0; i < a.length; i++) {
-            str[i] = a[i];
+            str[i] = a[i].toString();
         }
         return String.join(delimiter.toString(), str);
     }
