@@ -80,7 +80,7 @@
 			<scope>test</scope>
 		</dependency>
         <dependency>
-            <groupId>com.github.rafa1231518</groupId>
+            <groupId>com.github.uwx</groupId>
             <artifactId>logmaster</artifactId>
             <version>21f12f915d</version>
         </dependency>
@@ -101,7 +101,7 @@
             <version>19.0</version>
         </dependency>
 		<dependency>
-		    <groupId>com.github.fallk</groupId>
+		    <groupId>com.github.uwx</groupId>
 		    <artifactId>jfunktion</artifactId>
 		    <version>737921b386</version>
 		</dependency>
